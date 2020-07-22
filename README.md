@@ -1,2 +1,2 @@
 # baby-steps-to-the-cloud
-tutorials, best practices and fun with Tencent Cloud
+Tutorials, Best Practices and Fun with Tencent Cloud
